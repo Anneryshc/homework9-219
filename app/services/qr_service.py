@@ -1,7 +1,7 @@
 
 import os
 from typing import List
-import qrcode  # Asegúrate de tener instalada esta librería: pip install qrcode
+import qrcode # Asegúrate de tener instalada esta librería: pip install qrcode
 import logging
 from pathlib import Path
 from app.config import SERVER_BASE_URL, SERVER_DOWNLOAD_FOLDER
